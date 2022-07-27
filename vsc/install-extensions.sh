@@ -1,0 +1,41 @@
+#!/bin/sh
+# Credits to: https://stackoverflow.com/a/49398449
+
+code --install-extension be5invis.vscode-custom-css
+code --install-extension bierner.markdown-mermaid
+code --install-extension cschlosser.doxdocgen
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension DimitarNonov.jellybeans-theme
+code --install-extension file-icons.file-icons
+code --install-extension franneck94.c-cpp-runner
+code --install-extension Gruntfuggly.activitusbar
+code --install-extension iocave.customize-ui
+code --install-extension iocave.monkey-patch
+code --install-extension jeff-hykin.better-cpp-syntax
+code --install-extension josetr.cmake-language-support-vscode
+code --install-extension matangover.mypy
+code --install-extension mikestead.dotenv
+code --install-extension mine.cpplint
+code --install-extension mit-up-group.constellation-vscode
+code --install-extension mit-up-group.praxis
+code --install-extension ms-dotnettools.vscode-dotnet-runtime
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension ms-vscode-remote.remote-ssh
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode.cmake-tools
+code --install-extension ms-vscode.cpptools
+code --install-extension ms-vscode.cpptools-extension-pack
+code --install-extension ms-vscode.cpptools-themes
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension PKief.material-icon-theme
+code --install-extension rust-lang.rust-analyzer
+code --install-extension Sadra1f.minimal-dark-s1f
+code --install-extension twxs.cmake
+code --install-extension vadimcn.vscode-lldb
+code --install-extension yzhang.markdown-all-in-one
+code --install-extension zhuangtongfa.material-theme
